@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Applied AI in Enterprise Operations 2026: Empirical Production Outcomes Across 23+ Enterprise Accounts (HD-2026-01)"
+message: "If you cite these production benchmarks, methodology, or dataset, please cite this work as below."
+type: dataset
+authors:
+  - family-names: "Panizzutti"
+    given-names: "João"
+    affiliation: "HomoDeus"
+    email: "joao@homodeus.co"
+  - name: "HomoDeus Research"
+    website: "https://www.homodeus.co"
+    city: "Miami"
+    country: "US"
+repository-code: "https://github.com/HomodeusAI/applied-ai-benchmarks-2026"
+url: "https://www.homodeus.co/research/applied-ai-production-2026"
+abstract: "Empirical benchmark dataset and research report (HD-2026-01) documenting production AI agent deployments, measured savings, workflow baselines, EU AI Act and GDPR engineering controls, and autonomous offensive security (HAL) benchmarks across 23+ named enterprise accounts in the United States, Europe, and Brazil."
+keywords:
+  - applied-ai
+  - enterprise-ai
+  - ai-agents
+  - production-benchmarks
+  - eu-ai-act
+  - gdpr
+  - offensive-security
+  - mcp
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-11-25"

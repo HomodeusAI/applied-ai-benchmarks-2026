@@ -1,0 +1,1335 @@
+{
+ "name": "HomoDeus",
+ "url": "https://www.homodeus.co",
+ "proofUrl": "https://www.homodeus.co/proof.json",
+ "count": 24,
+ "cases": [
+  {
+   "slug": "agora",
+   "name": "Agora",
+   "client": {
+    "en": "CNN Brasil",
+    "pt": "CNN Brasil"
+   },
+   "what": {
+    "en": "Debate monitor for CNN Brasil and Itatiaia",
+    "pt": "Monitor de debates para CNN Brasil e Itatiaia"
+   },
+   "about": {
+    "en": "Agora watches every debate and candidate interview of the 2026 election for CNN Brasil and Rádio Itatiaia, across 79 channels, and hands the newsroom cuts and drafts where every claim cites the transcript and no quote sits in the wrong mouth.",
+    "pt": "A Agora acompanha cada debate e entrevista de candidato da eleição de 2026 para a CNN Brasil e a Rádio Itatiaia, em 79 canais, e entrega à redação cortes e rascunhos onde cada afirmação cita a transcrição e nenhuma fala está na boca errada."
+   },
+   "outcome": {
+    "en": "Ten places to one team. What took ten people in ten different places now takes one smaller team, with the same editorial rigor. No newsroom can watch every channel at once. The agent watches all of them, live, and has the cut drafted before the segment ends, every quote in the right mouth.",
+    "pt": "De dez lugares para uma equipe. O que exigia dez profissionais em dez lugares diferentes agora fica com uma equipe menor, com o mesmo rigor editorial. Nenhuma redação consegue olhar todos os canais ao mesmo tempo. O agente olha todos eles, ao vivo, e tem o corte rascunhado antes de o bloco terminar, cada citação na boca certa."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/agora",
+    "pt": "https://www.homodeus.co/pt/agora"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/agora.md",
+    "pt": "https://www.homodeus.co/pt/agora.md"
+   },
+   "clientScale": {
+    "en": "CNN Brasil and Rádio Itatiaia are national Brazilian broadcast and digital newsrooms that deployed Agora Monitor de Debates across 14 states during the 2026 election cycle.",
+    "pt": "A CNN Brasil e a Rádio Itatiaia são redações nacionais brasileiras de TV, rádio e digital que operaram o Agora Monitor de Debates em 14 estados na eleição de 2026."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Debates covered",
+      "value": "329 debates and sabatinas across 79 channels, 35 outlets and 14 states",
+      "source": "CNN Brasil Monitor de Debates, Oct 2026 (F-226)"
+     },
+     {
+      "metric": "Broadcast volume",
+      "value": "233 hours of live video (29 full workdays)",
+      "source": "2026 election coverage (F-226)"
+     },
+     {
+      "metric": "Block summary latency",
+      "value": "About 3 minutes after each block closes",
+      "source": "CNN Brasil CEO public post, Oct 2026 (F-034, F-226)"
+     },
+     {
+      "metric": "Attribution accuracy",
+      "value": "91.6% speaker-turn match with dual-AI verification gate",
+      "source": "Agora production logs, 2026 (F-226)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Debates cobertos",
+      "value": "329 debates e sabatinas em 79 canais, 35 veículos e 14 estados",
+      "source": "Monitor de Debates CNN Brasil, out 2026 (F-226)"
+     },
+     {
+      "metric": "Volume de vídeo processado",
+      "value": "233 horas de vídeo ao vivo (29 dias úteis)",
+      "source": "Cobertura eleitoral de 2026 (F-226)"
+     },
+     {
+      "metric": "Tempo de resumo por bloco",
+      "value": "Cerca de 3 minutos após o encerramento de cada bloco",
+      "source": "Publicação do CEO da CNN Brasil, out 2026 (F-034, F-226)"
+     },
+     {
+      "metric": "Precisão de atribuição",
+      "value": "91,6% de acerto por turno de fala com trava de duas IAs",
+      "source": "Logs de produção do Agora, 2026 (F-226)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-034",
+    "F-226"
+   ]
+  },
+  {
+   "slug": "assay",
+   "name": "Assay",
+   "client": {
+    "en": "Fundação Butantan",
+    "pt": "Fundação Butantan"
+   },
+   "what": {
+    "en": "Payment review agent for Fundação Butantan",
+    "pt": "Agente de revisão de pagamentos para a Fundação Butantan"
+   },
+   "about": {
+    "en": "Assay checks each service sheet at Fundação Butantan against its invoice, order and contract before a manager approves the payment, and cites the passage behind every check.",
+    "pt": "A Assay confere cada folha de serviço da Fundação Butantan contra a nota fiscal, o pedido de compra e o contrato antes de um gestor aprovar o pagamento, e cita o trecho por trás de cada conferência."
+   },
+   "outcome": {
+    "en": "The weekend that once stacked up 114 approvals is a five-minute review. The manager still signs. Now every payment arrives already checked, with the exact line behind each number.",
+    "pt": "O fim de semana que um dia empilhou 114 aprovações é uma revisão de cinco minutos. O gestor ainda assina. Agora cada pagamento chega já conferido, com a linha exata por trás de cada número."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/assay",
+    "pt": "https://www.homodeus.co/pt/assay"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/assay.md",
+    "pt": "https://www.homodeus.co/pt/assay.md"
+   },
+   "clientScale": {
+    "en": "Fundação Butantan is one of Latin America's largest public biomedical research and vaccine production institutions, verifying supplier invoices against public-sector contracts.",
+    "pt": "A Fundação Butantan é uma das maiores instituições públicas de pesquisa biomédica e produção de vacinas da América Latina, conferindo faturas de fornecedores contra contratos públicos."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Monthly review turnaround",
+      "value": "3 to 4 days per month cut to minutes",
+      "source": "Assay payment review deployment, 2026 (F-234)"
+     },
+     {
+      "metric": "Weekend queue reduction",
+      "value": "114 weekend payment approvals compressed into a 5-minute review",
+      "source": "Assay queue verification, 2026 (F-234)"
+     },
+     {
+      "metric": "Contract violations caught",
+      "value": "4 invoices passed document checks yet failed contract compliance",
+      "source": "Assay audit run, 2026 (F-234)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Ciclo mensal de conferência",
+      "value": "De 3 a 4 dias por mês reduzidos para minutos",
+      "source": "Implantação do Assay, 2026 (F-234)"
+     },
+     {
+      "metric": "Fila de fim de semana",
+      "value": "114 aprovações de fim de semana comprimidas em revisão de 5 minutos",
+      "source": "Verificação de fila do Assay, 2026 (F-234)"
+     },
+     {
+      "metric": "Violações contratuais detectadas",
+      "value": "4 notas fiscais aprovadas em conferência documental falharam no contrato",
+      "source": "Rodada de auditoria do Assay, 2026 (F-234)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-234"
+   ]
+  },
+  {
+   "slug": "osinis",
+   "name": "OSINIS",
+   "client": {
+    "en": "Positivo",
+    "pt": "Positivo"
+   },
+   "what": {
+    "en": "Third-party due diligence for Positivo",
+    "pt": "Due diligence de terceiros para a Positivo"
+   },
+   "about": {
+    "en": "OSINIS checks a company or person against dozens of official Brazilian sources for Positivo's legal team, and a source counts only with proof it was searched.",
+    "pt": "O OSINIS checa uma empresa ou pessoa contra dezenas de fontes oficiais brasileiras para o time jurídico da Positivo, e uma fonte só conta com a prova de que foi consultada."
+   },
+   "outcome": {
+    "en": "A check that cost an analyst a day of portals runs across every source at once, and reads risk the way their best analyst would.",
+    "pt": "Uma checagem que custava a um analista um dia de portais roda em todas as fontes de uma vez, e lê risco do jeito que o melhor analista deles leria."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/osinis",
+    "pt": "https://www.homodeus.co/pt/osinis"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/osinis.md",
+    "pt": "https://www.homodeus.co/pt/osinis.md"
+   },
+   "clientScale": {
+    "en": "Positivo Tecnologia (B3: POSI3) is a publicly traded Brazilian technology manufacturer with R$3.35 billion in FY25 net revenue and R$4.4 billion to R$4.5 billion in FY26 gross revenue guidance.",
+    "pt": "A Positivo Tecnologia (B3: POSI3) é uma fabricante brasileira de tecnologia listada em bolsa com receita líquida de R$3,35 bilhões em 2025 e projeção de receita bruta de R$4,4 bilhões a R$4,5 bilhões para 2026."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Annual savings",
+      "value": "R$1.6M to R$2.5M per year saved",
+      "source": "Positivo Tecnologia engagement, cleared 24 Nov 2026 (F-209, F-217)"
+     },
+     {
+      "metric": "Turnaround per target",
+      "value": "About 1 hour by hand reduced to about 4 minutes in testing",
+      "source": "Positivo baseline vs 9 Jul 2026 test recap (F-206, F-217)"
+     },
+     {
+      "metric": "Data cost per diligence",
+      "value": "R$40 reduced to R$4.95 (-87.6%)",
+      "source": "Positivo compliance records, Jul to Aug 2026 (F-209, F-217)"
+     },
+     {
+      "metric": "Validated test cohort",
+      "value": "420 third-party dossiers validated",
+      "source": "OSINIS validation cohort, 2026 (F-217)"
+     },
+     {
+      "metric": "Full annual coverage scope",
+      "value": "15,000 third parties per year (R$849,300 manual full-coverage baseline)",
+      "source": "Positivo corporate legal scope, 2026 (F-217)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Economia anual",
+      "value": "R$1,6M a R$2,5M por ano economizados",
+      "source": "Projeto Positivo Tecnologia, liberado em 24 nov 2026 (F-209, F-217)"
+     },
+     {
+      "metric": "Tempo por alvo",
+      "value": "De cerca de 1 hora à mão para cerca de 4 minutos em testes",
+      "source": "Linha de base Positivo vs testes de 9 jul 2026 (F-206, F-217)"
+     },
+     {
+      "metric": "Custo de dados por diligência",
+      "value": "De R$40 para R$4,95 (-87,6%)",
+      "source": "Registros de compliance Positivo, jul a ago 2026 (F-209, F-217)"
+     },
+     {
+      "metric": "Lote validado",
+      "value": "420 dossiês de terceiros validados",
+      "source": "Coorte de validação OSINIS, 2026 (F-217)"
+     },
+     {
+      "metric": "Escopo anual completo",
+      "value": "15.000 terceiros por ano (linha de base manual de R$849.300/ano)",
+      "source": "Escopo do jurídico corporativo Positivo, 2026 (F-217)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-206",
+    "F-209",
+    "F-217"
+   ]
+  },
+  {
+   "slug": "delphi",
+   "name": "Delphi",
+   "client": {
+    "en": "Linkin Capital",
+    "pt": "Linkin Capital"
+   },
+   "what": {
+    "en": "Deal desk for Linkin Capital",
+    "pt": "Mesa de deals para a Linkin Capital"
+   },
+   "about": {
+    "en": "Delphi reads every deal that reaches Linkin Capital by email, WhatsApp and Slack, sets it against the deals the partners took and passed on, and puts a cited memo in front of a partner. No decline leaves without two independent AIs and a verified citation agreeing.",
+    "pt": "O Delphi lê cada deal que chega à Linkin Capital por e-mail, WhatsApp e Slack, compara com os deals que os sócios aceitaram e os que recusaram, e põe um memorando citado na frente de um sócio. Nenhuma recusa sai sem duas IAs independentes e uma citação verificada concordando."
+   },
+   "outcome": {
+    "en": "Every deal is weighed against the ones the partners took and the ones they passed, their own judgment on the next deal before they have finished reading it.",
+    "pt": "Cada deal é pesado contra os que os sócios aceitaram e os que recusaram, o julgamento deles sobre o próximo deal antes de terminarem de lê-lo."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/delphi",
+    "pt": "https://www.homodeus.co/pt/delphi"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/delphi.md",
+    "pt": "https://www.homodeus.co/pt/delphi.md"
+   },
+   "clientScale": {
+    "en": "Linkin Capital is a sports, wellness and entertainment venture capital fund operating across the United States and Brazil, evaluating roughly 30 inbound deals per month across four partners.",
+    "pt": "A Linkin Capital é um fundo de venture capital em esporte, bem-estar e entretenimento atuando nos Estados Unidos e no Brasil, avaliando cerca de 30 deals por mês entre quatro sócios."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Institutional memory mined",
+      "value": "112,633 email conversations and 3,185 deals indexed",
+      "source": "Four partner mailboxes, 2026 (F-229)"
+     },
+     {
+      "metric": "Batch analysis throughput",
+      "value": "160 deals analyzed in one 24-hour run (5.3 months of typical 30-deal/month flow)",
+      "source": "Delphi Slack production run, 2026 (F-229)"
+     },
+     {
+      "metric": "Decline verification gate",
+      "value": "Dual-AI agreement with verbatim deck citation required before partner approval",
+      "source": "Delphi live workflow (F-229)"
+     },
+     {
+      "metric": "Estimated partner time saved",
+      "value": "55 partner hours per month (about US$49,500 per year)",
+      "source": "Linkin Capital deal desk estimate (F-229)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Memória institucional minerada",
+      "value": "112.633 conversas de e-mail e 3.185 deals indexados",
+      "source": "Caixas de entrada dos quatro sócios, 2026 (F-229)"
+     },
+     {
+      "metric": "Capacidade de análise em lote",
+      "value": "160 deals analisados em 24 horas (5,3 meses de fluxo médio de 30 deals/mês)",
+      "source": "Rodada em produção do Delphi no Slack, 2026 (F-229)"
+     },
+     {
+      "metric": "Trava de recusa",
+      "value": "Concordância de duas IAs com citação literal do deck antes da aprovação de um sócio",
+      "source": "Fluxo ativo do Delphi (F-229)"
+     },
+     {
+      "metric": "Tempo estimado economizado",
+      "value": "55 horas de sócios por mês (cerca de US$49.500 por ano)",
+      "source": "Estimativa da mesa de deals Linkin Capital (F-229)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-229"
+   ]
+  },
+  {
+   "slug": "keystone",
+   "name": "Keystone",
+   "client": {
+    "en": "Galapagos Capital",
+    "pt": "Galapagos Capital"
+   },
+   "what": {
+    "en": "Underwriting agent for Galapagos Capital",
+    "pt": "Agente de underwriting para a Galapagos Capital"
+   },
+   "about": {
+    "en": "Keystone captures the house view of Galapagos Capital's US real estate desk, the judgment that lived in a few analysts' heads, and runs it against every sponsor package the day it arrives.",
+    "pt": "A Keystone captura a visão da casa da mesa de real estate dos EUA da Galapagos Capital, o julgamento que vivia na cabeça de poucos analistas, e aplica em cada pacote de sponsor no dia em que chega."
+   },
+   "outcome": {
+    "en": "The judgment that took a week in one analyst's head reaches every package the day it arrives. The house view stops walking out the door at night, and the analyst goes back to the call only a person can make.",
+    "pt": "O julgamento que levava uma semana na cabeça de um analista chega a cada pacote no dia em que ele entra. A visão da casa para de ir embora pela porta à noite, e o analista volta para a decisão que só uma pessoa pode tomar."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/keystone",
+    "pt": "https://www.homodeus.co/pt/keystone"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/keystone.md",
+    "pt": "https://www.homodeus.co/pt/keystone.md"
+   },
+   "clientScale": {
+    "en": "Galapagos Capital is a global multi-strategy investment firm managing R$20 billion to R$32 billion in AUM (about US$9 billion globally) across the United States, Brazil and Europe.",
+    "pt": "A Galapagos Capital é uma gestora global multiestratégia com R$20 bilhões a R$32 bilhões sob gestão (cerca de US$9 bilhões globalmente) nos Estados Unidos, no Brasil e na Europa."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Estimated annual savings",
+      "value": "About US$500,000 per year",
+      "source": "Miami US real estate desk (F-204, F-219)"
+     },
+     {
+      "metric": "Underwriting cycle time",
+      "value": "At least 1 week per deal reduced to 20 to 40 minutes",
+      "source": "Desk baseline 27 May 2026 vs 13 Nov 2026 run (F-205, F-219)"
+     },
+     {
+      "metric": "Weekly analyst workload",
+      "value": "100 hours per week reduced to 2 to 4 hours per week (-96% to -98%)",
+      "source": "Miami US real estate desk (F-219)"
+     },
+     {
+      "metric": "Material sponsor error caught",
+      "value": "2.53x understated insurance shifting projected deal return from 12.17% to 5.48%",
+      "source": "Live sponsor workbook audit (F-219)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Economia anual estimada",
+      "value": "Cerca de US$500.000 por ano",
+      "source": "Mesa de real estate americano em Miami (F-204, F-219)"
+     },
+     {
+      "metric": "Ciclo de underwriting",
+      "value": "De pelo menos 1 semana por deal para 20 a 40 minutos",
+      "source": "Linha de base 27 mai 2026 vs rodada de 13 nov 2026 (F-205, F-219)"
+     },
+     {
+      "metric": "Esforço semanal da mesa",
+      "value": "De 100 horas por semana para 2 a 4 horas por semana (-96% a -98%)",
+      "source": "Mesa de real estate americano em Miami (F-219)"
+     },
+     {
+      "metric": "Erro relevante identificado",
+      "value": "Seguro subestimado em 2,53x reduzindo retorno projetado de 12,17% para 5,48%",
+      "source": "Auditoria de planilha real de sponsor (F-219)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-204",
+    "F-205",
+    "F-219"
+   ]
+  },
+  {
+   "slug": "growthos",
+   "name": "GrowthOS",
+   "client": {
+    "en": "Cascione",
+    "pt": "Cascione"
+   },
+   "what": {
+    "en": "Commercial operating system for Cascione",
+    "pt": "Sistema operacional comercial para a Cascione"
+   },
+   "about": {
+    "en": "GrowthOS gives Cascione's partners a daily cited client brief built from the work they already do, with no CRM to type into.",
+    "pt": "O GrowthOS dá aos sócios da Cascione um brief diário de cliente, com fontes, montado a partir do trabalho que eles já fazem, sem CRM para alimentar."
+   },
+   "outcome": {
+    "en": "The relationships that lived in the partners' heads and inboxes surface as pipeline on their own, the firm's best instincts working while they sleep.",
+    "pt": "As relações que viviam na cabeça e nas caixas de entrada dos sócios surgem como pipeline sozinhas, os melhores instintos do escritório trabalhando enquanto eles dormem."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/growthos",
+    "pt": "https://www.homodeus.co/pt/growthos"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/growthos.md",
+    "pt": "https://www.homodeus.co/pt/growthos.md"
+   },
+   "clientScale": {
+    "en": "Cascione Advogados is a corporate law firm in São Paulo and Rio de Janeiro executing a firm-wide AI transformation across more than 5 expanding engagements with HomoDeus.",
+    "pt": "O Cascione Advogados é um escritório corporativo em São Paulo e no Rio de Janeiro que executa uma transformação de IA em todo o escritório em mais de 5 frentes com a HomoDeus."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Program breadth",
+      "value": "5+ expanding AI engagements across commercial and legal operations",
+      "source": "Firm-wide transformation program, 2026 (F-227)"
+     },
+     {
+      "metric": "Leads tracked",
+      "value": "5,344 leads managed automatically",
+      "source": "GrowthOS production database, 2026 (F-227)"
+     },
+     {
+      "metric": "Commercial tasks",
+      "value": "3,004 tasks tracked",
+      "source": "GrowthOS production database, 2026 (F-227)"
+     },
+     {
+      "metric": "Fee proposals",
+      "value": "689 proposals indexed",
+      "source": "GrowthOS production database, 2026 (F-227)"
+     },
+     {
+      "metric": "Client intelligence screening",
+      "value": "14,510 news items screened",
+      "source": "GrowthOS production database, 2026 (F-227)"
+     },
+     {
+      "metric": "Firm book synced",
+      "value": "3,300 clients and receivables synced daily",
+      "source": "GrowthOS system-of-record integration (cases.py)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Amplitude do programa",
+      "value": "Mais de 5 frentes de IA em expansão nas áreas comercial e jurídica",
+      "source": "Programa de transformação do escritório, 2026 (F-227)"
+     },
+     {
+      "metric": "Leads acompanhados",
+      "value": "5.344 leads geridos automaticamente",
+      "source": "Banco de produção do GrowthOS, 2026 (F-227)"
+     },
+     {
+      "metric": "Tarefas comerciais",
+      "value": "3.004 tarefas registradas",
+      "source": "Banco de produção do GrowthOS, 2026 (F-227)"
+     },
+     {
+      "metric": "Propostas de honorários",
+      "value": "689 propostas indexadas",
+      "source": "Banco de produção do GrowthOS, 2026 (F-227)"
+     },
+     {
+      "metric": "Triagem de inteligência",
+      "value": "14.510 notícias triadas",
+      "source": "Banco de produção do GrowthOS, 2026 (F-227)"
+     },
+     {
+      "metric": "Base sincronizada",
+      "value": "3.300 clientes e recebíveis sincronizados diariamente",
+      "source": "Integração diária do GrowthOS (cases.py)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-227"
+   ]
+  },
+  {
+   "slug": "nightwatch",
+   "name": "Nightwatch",
+   "client": {
+    "en": "BestoursPT, Genuine Tours and Radar Odyssey",
+    "pt": "BestoursPT, Genuine Tours e Radar Odyssey"
+   },
+   "what": {
+    "en": "Booking agent for transfer companies in Portugal",
+    "pt": "Agente de reservas para empresas de transfer em Portugal"
+   },
+   "about": {
+    "en": "Nightwatch reads every booking and platform offer for Portuguese transfer companies, decides on each company's own rules, enters the service in its system day and night, plans the next day's drivers, and stops rather than write a service it cannot confirm landed.",
+    "pt": "O Nightwatch lê cada reserva e oferta de plataforma para empresas de transfer portuguesas, decide pelas regras de cada empresa, lança o serviço no sistema dela dia e noite, planeja os motoristas do dia seguinte e para em vez de escrever um serviço que não consegue confirmar que entrou."
+   },
+   "outcome": {
+    "en": "The night shift of reading vouchers and typing them in is over, and around three hundred hours of desk work a month went with it. The agent books the airport run the moment it arrives, on the company's own rules, and never sends two cars to the same trip.",
+    "pt": "O turno da noite de ler vouchers e digitá-los acabou, e cerca de trezentas horas de trabalho de mesa por mês foram junto. O agente reserva a corrida do aeroporto no instante em que ela chega, pelas regras da empresa, e nunca manda dois carros para a mesma viagem."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/nightwatch",
+    "pt": "https://www.homodeus.co/pt/nightwatch"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/nightwatch.md",
+    "pt": "https://www.homodeus.co/pt/nightwatch.md"
+   },
+   "clientScale": {
+    "en": "European ground-transfer operations using HomoDeus automation span BestoursPT, Genuine Tours, Radar Odyssey, Transfergest and CAR2U in Portugal alongside Autoservizi Sarno in Italy.",
+    "pt": "As operações europeias de transfer que utilizam automação da HomoDeus abrangem BestoursPT, Genuine Tours, Radar Odyssey, Transfergest e CAR2U em Portugal, além da Autoservizi Sarno na Itália."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Ride offers decided",
+      "value": "15,679 ride offers at 15.6 seconds median response",
+      "source": "Production DB, 15 Feb to 24 Nov 2026 (F-207, F-233)"
+     },
+     {
+      "metric": "Bookings processed",
+      "value": "3,926 bookings entered and 234 edited autonomously",
+      "source": "Production DB, 24 Nov 2026 (F-207, F-233)"
+     },
+     {
+      "metric": "Accepted gross booking value",
+      "value": "EUR 69,198.50 for BestoursPT (EUR 7,487.32 overnight 00:00 to 08:00)",
+      "source": "Production DB, 15 Feb to 24 Nov 2026 (F-207, F-233)"
+     },
+     {
+      "metric": "Go-live speed",
+      "value": "Genuine Tours live in 13 days after parsing 11,132 historical emails",
+      "source": "Genuine Tours rollout, 2026 (F-233)"
+     },
+     {
+      "metric": "Roster compliance replay",
+      "value": "Rest-rule breaks cut from 294 to 0; outsourced jobs cut 34% (178 to 118)",
+      "source": "Radar Odyssey 79-day / 1,886-service replay (F-073, F-233)"
+     },
+     {
+      "metric": "Desk hours saved",
+      "value": "About 252 desk hours per month (about EUR 26,800 per year)",
+      "source": "Transfer operations baseline (F-233)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Ofertas de corrida decididas",
+      "value": "15.679 ofertas com mediana de resposta de 15,6 segundos",
+      "source": "Banco de produção, 15 fev a 24 nov 2026 (F-207, F-233)"
+     },
+     {
+      "metric": "Reservas processadas",
+      "value": "3.926 reservas lançadas e 234 editadas de forma autônoma",
+      "source": "Banco de produção, 24 nov 2026 (F-207, F-233)"
+     },
+     {
+      "metric": "Valor bruto aceito",
+      "value": "EUR 69.198,50 para a BestoursPT (EUR 7.487,32 das 00:00 às 08:00)",
+      "source": "Banco de produção, 15 fev a 24 nov 2026 (F-207, F-233)"
+     },
+     {
+      "metric": "Tempo até entrar em produção",
+      "value": "Genuine Tours no ar em 13 dias após leitura de 11.132 e-mails históricos",
+      "source": "Implantação Genuine Tours, 2026 (F-233)"
+     },
+     {
+      "metric": "Replay de escala de motoristas",
+      "value": "Quebras de descanso reduzidas de 294 para 0; terceirizações reduzidas em 34% (178 para 118)",
+      "source": "Replay Radar Odyssey de 79 dias / 1.886 serviços (F-073, F-233)"
+     },
+     {
+      "metric": "Horas de mesa economizadas",
+      "value": "Cerca de 252 horas por mês (cerca de EUR 26.800 por ano)",
+      "source": "Linha de base das operadoras de transfer (F-233)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-073",
+    "F-207",
+    "F-233"
+   ]
+  },
+  {
+   "slug": "mcp",
+   "name": "HomoDeus MCP",
+   "client": {
+    "en": "In-house",
+    "pt": "In-house"
+   },
+   "what": {
+    "en": "Agent gateway, company memory and agent team for HomoDeus",
+    "pt": "Gateway de agentes, memória da empresa e time de agentes para a HomoDeus"
+   },
+   "about": {
+    "en": "The HomoDeus MCP is the gateway every agent in the company works through: one door onto every system, calls transcribed and turned into deals, the money and the documents, a memory of 100,880 pages, the timeline of every client, one truth with its source, and swarms of agents that hand work to each other.",
+    "pt": "O HomoDeus MCP é o gateway por onde passa cada agente da empresa: uma porta para todos os sistemas, calls transcritas que viram deals, o dinheiro e os documentos, uma memória de 100.880 páginas, a linha do tempo de cada cliente, uma verdade só com a fonte e enxames de agentes que passam trabalho uns para os outros."
+   },
+   "outcome": {
+    "en": "Every agent at HomoDeus starts from everything the company knows: each client's whole story, in order, cleaned, with the source behind every fact. Calls become deals, the money is read to the line, and the agents hand work to each other. Every job one agent learns makes every other agent better at it.",
+    "pt": "Todo agente da HomoDeus começa de tudo o que a empresa sabe: a história inteira de cada cliente, em ordem, limpa, com a fonte por trás de cada fato. As calls viram deals, o dinheiro é lido até a linha, e os agentes passam trabalho uns para os outros. Cada trabalho que um agente aprende deixa todos os outros melhores nele."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/mcp",
+    "pt": "https://www.homodeus.co/pt/mcp"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/mcp.md",
+    "pt": "https://www.homodeus.co/pt/mcp.md"
+   }
+  },
+  {
+   "slug": "hotel-os",
+   "name": "Hotel OS",
+   "client": {
+    "en": "A Hotel Chain",
+    "pt": "Uma rede de hotéis"
+   },
+   "what": {
+    "en": "Hotel operations agents for a hotel chain",
+    "pt": "Agentes de operação hoteleira para uma rede de hotéis"
+   },
+   "about": {
+    "en": "Hotel OS runs a hotel chain's daily operations from one view of each night, with six agents: the demand forecast, upsell and front desk, housekeeping, staff rosters, preventive maintenance and every guest conversation.",
+    "pt": "O Hotel OS roda a operação diária de uma rede de hotéis a partir de uma única visão de cada noite, com seis agentes: a previsão de demanda, o upsell e a recepção, a governança, as escalas de equipe, a manutenção preventiva e cada conversa com o hóspede."
+   },
+   "outcome": {
+    "en": "Rooms are ready when guests land, every call is answered in the guest's own language, every task has a name on it, and the people in the building spend the day with the guests in front of them.",
+    "pt": "Os quartos ficam prontos quando os hóspedes chegam, cada ligação é atendida no idioma do hóspede, cada tarefa tem um nome, e as pessoas do prédio passam o dia com os hóspedes à sua frente."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/hotel-os",
+    "pt": "https://www.homodeus.co/pt/hotel-os"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/hotel-os.md",
+    "pt": "https://www.homodeus.co/pt/hotel-os.md"
+   }
+  },
+  {
+   "slug": "yield",
+   "name": "Yield",
+   "client": {
+    "en": "A Hotel Group",
+    "pt": "Um grupo hoteleiro"
+   },
+   "what": {
+    "en": "Dynamic pricing agent for a hotel group",
+    "pt": "Agente de preço dinâmico para um grupo hoteleiro"
+   },
+   "about": {
+    "en": "Yield prices every room of a hotel group against the whole market, every hour, and brings the revenue team one alert per hotel with the largest sum at stake first. A person approves every price.",
+    "pt": "O Yield define o preço de cada quarto de um grupo hoteleiro contra o mercado inteiro, a cada hora, e traz para a equipe de revenue um alerta por hotel, com a maior quantia em jogo primeiro. Uma pessoa aprova cada preço."
+   },
+   "outcome": {
+    "en": "The morning with the pickup report is over. Every room carries the price the market will pay at that hour, and the revenue team reads one alert and signs.",
+    "pt": "A manhã com o relatório de pickup acabou. Cada quarto carrega o preço que o mercado paga naquela hora, e a equipe de revenue lê um alerta e assina."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/yield",
+    "pt": "https://www.homodeus.co/pt/yield"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/yield.md",
+    "pt": "https://www.homodeus.co/pt/yield.md"
+   }
+  },
+  {
+   "slug": "hal",
+   "name": "HAL",
+   "client": {
+    "en": "24/7 AI Security Sentinel",
+    "pt": "Sentinela de segurança 24/7"
+   },
+   "what": {
+    "en": "Continuous penetration testing",
+    "pt": "Pentest contínuo com IA"
+   },
+   "about": {
+    "en": "HAL is HomoDeus's paid 24/7 AI security sentinel. It runs continuous penetration testing inside the scope you sign, proves each flaw with server evidence, hands over the fix, and keeps watch 24/7.",
+    "pt": "O HAL é o serviço pago de sentinela de segurança 24/7 com IA da HomoDeus. Faz pentest contínuo com IA dentro do escopo que você assina, prova cada falha com evidência de servidor, entrega a correção e vigia 24/7."
+   },
+   "outcome": {
+    "en": "HAL is a paid 24/7 AI security sentinel: we agree the scope with you, HAL attacks continuously, proves each flaw, hands over the fix, and keeps watch 24/7.",
+    "pt": "O HAL é um serviço pago de sentinela 24/7: combinamos o escopo com você, o HAL ataca continuamente, prova cada falha, entrega a correção e mantém vigilância 24/7."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/hal",
+    "pt": "https://www.homodeus.co/pt/hal"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/hal.md",
+    "pt": "https://www.homodeus.co/pt/hal.md"
+   },
+   "clientScale": {
+    "en": "HAL serves HomoDeus's enterprise portfolio of 23+ named organizations representing more than US$85 billion in combined annual revenue and over US$30 billion in assets under management or custody across the United States, Europe and Brazil, with commercial security findings kept strictly anonymous.",
+    "pt": "O HAL atende ao portfólio corporativo da HomoDeus de mais de 23 organizações nomeadas que somam mais de US$85 bilhões em receita anual e mais de US$30 bilhões sob gestão ou custódia nos Estados Unidos, na Europa e no Brasil, com achados comerciais de segurança mantidos estritamente anônimos."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Authorized operations",
+      "value": "21 offensive security operations completed",
+      "source": "HAL operations ledger, 2026 (F-235)"
+     },
+     {
+      "metric": "Verified vulnerabilities",
+      "value": "101 verified findings delivered with reproduction proof and fixes",
+      "source": "HAL operations ledger, 2026 (F-235)"
+     },
+     {
+      "metric": "CyberOffense benchmark",
+      "value": "74.7% objectives reached (#2 behind restricted GPT-6 Sol Daybreak, HomoDeus measurement)",
+      "source": "Vals AI CyberOffense, 23 Oct 2026 (F-235)"
+     },
+     {
+      "metric": "Public government evaluations",
+      "value": "Swiss government e-ID wallet and Swiss Post e-voting security evaluations",
+      "source": "Public responsible disclosures, 2026 (F-235)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Operações autorizadas",
+      "value": "21 operações de segurança ofensiva concluídas",
+      "source": "Registro operacional do HAL, 2026 (F-235)"
+     },
+     {
+      "metric": "Vulnerabilidades verificadas",
+      "value": "101 achados verificados entregues com prova de reprodução e correção",
+      "source": "Registro operacional do HAL, 2026 (F-235)"
+     },
+     {
+      "metric": "Benchmark CyberOffense",
+      "value": "74,7% dos objetivos alcançados (2º lugar atrás do GPT-6 Sol Daybreak restrito, medição HomoDeus)",
+      "source": "Vals AI CyberOffense, 23 out 2026 (F-235)"
+     },
+     {
+      "metric": "Avaliações públicas governamentais",
+      "value": "Avaliações de segurança da carteira e-ID do governo suíço e do e-voting da Swiss Post",
+      "source": "Divulgações responsáveis públicas, 2026 (F-235)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-235"
+   ]
+  },
+  {
+   "slug": "tempo",
+   "name": "Tempo",
+   "client": {
+    "en": "Asia-Pacific supply chain operator",
+    "pt": "Asia-Pacific supply chain operator"
+   },
+   "what": {
+    "en": "Order fulfillment agent for a supply chain operator",
+    "pt": "Agente de fulfillment de pedidos para um operador de supply chain"
+   },
+   "about": {
+    "en": "Tempo builds the operator's fulfillment plan from ERP and legacy exports, flags the orders at risk of a missed date, and puts the plan in front of a planner.",
+    "pt": "O Tempo monta o plano de fulfillment do operador a partir de exports do ERP e de sistemas legados, aponta os pedidos com risco de furar o prazo e coloca o plano na frente de um planejador."
+   },
+   "outcome": {
+    "en": "Ten hours of stitching exports together each day is now one plan the whole floor shares. Every order heading for a late date is flagged while there is still time to move it, instead of found after it slips.",
+    "pt": "Dez horas por dia costurando exports viraram um único plano que a operação inteira compartilha. Todo pedido que caminha para o atraso é sinalizado enquanto ainda dá tempo de mexer nele, em vez de ser descoberto depois que já escapou."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/tempo",
+    "pt": "https://www.homodeus.co/pt/tempo"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/tempo.md",
+    "pt": "https://www.homodeus.co/pt/tempo.md"
+   }
+  },
+  {
+   "slug": "cymaco",
+   "name": "Tirion",
+   "client": {
+    "en": "Cymaco Engenharia",
+    "pt": "Cymaco Engenharia"
+   },
+   "what": {
+    "en": "Project finance cockpit for Cymaco Engenharia",
+    "pt": "Cockpit financeiro de obra para a Cymaco Engenharia"
+   },
+   "about": {
+    "en": "Tirion reconciles Cymaco's purchases, payables and fiscal documents into one financial view per construction project.",
+    "pt": "O Tirion concilia as compras, as contas a pagar e os documentos fiscais da Cymaco em uma visão financeira por obra."
+   },
+   "outcome": {
+    "en": "Each project now carries its own timeline and cash curve built from real due dates, every tax document sitting against the payment it belongs to. Money going over budget is caught while it can still be stopped, not found in the spreadsheet months later.",
+    "pt": "Agora cada obra carrega a própria linha do tempo e curva de caixa, montadas a partir de datas de vencimento reais, com cada documento fiscal encostado no pagamento a que pertence. O dinheiro que passa do orçamento é pego enquanto ainda dá para segurar, em vez de aparecer na planilha meses depois."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/cymaco",
+    "pt": "https://www.homodeus.co/pt/cymaco"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/cymaco.md",
+    "pt": "https://www.homodeus.co/pt/cymaco.md"
+   },
+   "clientScale": {
+    "en": "Cymaco Engenharia is a Brazilian engineering and retrofit firm with more than 40 years of operating history across commercial and industrial construction projects.",
+    "pt": "A Cymaco Engenharia é uma empresa brasileira de engenharia e retrofit com mais de 40 anos de operação em obras comerciais e industriais."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Pilot contract reconciliation",
+      "value": "R$2.4M in pilot contracts reconciled to the cent",
+      "source": "Tirion pilot contracts, 2026 (F-230)"
+     },
+     {
+      "metric": "Receipts without NF-e",
+      "value": "R$334,399 received without NF-e (+R$13,646 identified)",
+      "source": "Tirion fiscal reconciliation, 2026 (F-230)"
+     },
+     {
+      "metric": "Anomalies uncovered",
+      "value": "R$270,000 in financial and contract anomalies flagged",
+      "source": "Tirion pilot audit, 2026 (F-230)"
+     },
+     {
+      "metric": "Target margin leakage",
+      "value": "R$200,000 to R$600,000 per year (R$20,000 to R$50,000 per project)",
+      "source": "Cymaco project finance business case (F-230)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Conciliação de contratos piloto",
+      "value": "R$2,4M em contratos piloto conciliados no centavo",
+      "source": "Contratos piloto do Tirion, 2026 (F-230)"
+     },
+     {
+      "metric": "Recebimentos sem NF-e",
+      "value": "R$334.399 recebidos sem NF-e (+R$13.646 identificados)",
+      "source": "Conciliação fiscal do Tirion, 2026 (F-230)"
+     },
+     {
+      "metric": "Anomalias identificadas",
+      "value": "R$270.000 em anomalias financeiras e contratuais sinalizadas",
+      "source": "Auditoria piloto do Tirion, 2026 (F-230)"
+     },
+     {
+      "metric": "Alvo de perda de margem",
+      "value": "R$200.000 a R$600.000 por ano (R$20.000 a R$50.000 por obra)",
+      "source": "Caso de negócio financeiro da Cymaco (F-230)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-230"
+   ]
+  },
+  {
+   "slug": "canon",
+   "name": "Canon",
+   "client": {
+    "en": "BIP",
+    "pt": "BIP"
+   },
+   "what": {
+    "en": "HR answer hub for BIP",
+    "pt": "Central de respostas de RH para a BIP"
+   },
+   "about": {
+    "en": "Canon answers BIP employees' payroll, vacation and benefit questions only from an approved source it can cite, and sends anything it cannot ground to a person.",
+    "pt": "O Canon responde as dúvidas dos funcionários da BIP sobre folha, férias e benefícios só a partir de uma fonte aprovada que ele consegue citar, e manda para uma pessoa tudo o que não consegue embasar."
+   },
+   "outcome": {
+    "en": "The question that used to wait for a person, and came back the next day, is answered in seconds from an approved source. Anything the hub cannot prove still goes to a person, so a payroll answer is never a guess.",
+    "pt": "A dúvida que antes esperava por uma pessoa, e voltava no dia seguinte, agora é respondida em segundos a partir de uma fonte aprovada. Tudo o que a central não consegue provar continua indo para uma pessoa, então uma resposta sobre folha nunca é um chute."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/canon",
+    "pt": "https://www.homodeus.co/pt/canon"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/canon.md",
+    "pt": "https://www.homodeus.co/pt/canon.md"
+   },
+   "clientScale": {
+    "en": "BIP is a CVC-backed European management and technology consultancy headquartered in Milan with EUR 315 million to EUR 350 million+ in annual revenue.",
+    "pt": "A BIP é uma consultoria europeia de gestão e tecnologia sediada em Milão, controlada pela CVC, com receita anual de EUR 315 milhões a EUR 350 milhões+."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Mapped HR support load",
+      "value": "1,415 hours per month of employee payroll and HR questions",
+      "source": "BIP HR mapping study, 2026 (F-224)"
+     },
+     {
+      "metric": "Addressable automation share",
+      "value": "962 to 1,146 hours per month addressable (68% to 81%)",
+      "source": "Canon scoping study, 2026 (F-224)"
+     },
+     {
+      "metric": "Privacy and audit design",
+      "value": "Read-only HR lookup under LGPD Art. 20 with 30-day personal data erasure",
+      "source": "Canon architecture specification (F-224)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Carga mapeada de RH",
+      "value": "1.415 horas por mês de dúvidas de folha e RH",
+      "source": "Mapeamento de RH da BIP, 2026 (F-224)"
+     },
+     {
+      "metric": "Parcela endereçável",
+      "value": "962 a 1.146 horas por mês endereçáveis (68% a 81%)",
+      "source": "Escopo do Canon, 2026 (F-224)"
+     },
+     {
+      "metric": "Privacidade e auditoria",
+      "value": "Consulta de RH somente leitura sob o Art. 20 da LGPD com exclusão de dados em 30 dias",
+      "source": "Especificação de arquitetura do Canon (F-224)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-224"
+   ]
+  },
+  {
+   "slug": "chronicle",
+   "name": "Chronicle",
+   "client": {
+    "en": "DeHouse",
+    "pt": "DeHouse"
+   },
+   "what": {
+    "en": "Sales operating system for DeHouse",
+    "pt": "Sistema operacional de vendas para a DeHouse"
+   },
+   "about": {
+    "en": "Chronicle turns DeHouse's inbox, meeting notes and lead lists into one sales record, where the customer is rarely the sender and nothing goes out without a person's approval.",
+    "pt": "O Chronicle junta a caixa de entrada, as notas de reunião e as listas de leads da DeHouse em um único registro de vendas, onde o cliente quase nunca é quem envia e nada sai sem a aprovação de uma pessoa."
+   },
+   "outcome": {
+    "en": "The follow-up nobody had time to send now writes itself and waits for one click. No thread goes cold unseen, and the broker who never replies is chased without a broker ever being forgotten.",
+    "pt": "O follow-up que ninguém tinha tempo de mandar agora se escreve sozinho e espera por um clique. Nenhuma conversa esfria sem alguém ver, e o corretor que nunca responde é cobrado sem que nenhum corretor fique esquecido."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/chronicle",
+    "pt": "https://www.homodeus.co/pt/chronicle"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/chronicle.md",
+    "pt": "https://www.homodeus.co/pt/chronicle.md"
+   },
+   "clientScale": {
+    "en": "DeHouse is a Lisbon commercial real estate operator managing nine flexible office locations across Lisbon and northern Portugal through institutional brokers.",
+    "pt": "A DeHouse é uma operadora de imóveis comerciais em Lisboa que administra nove unidades de escritórios flexíveis em Lisboa e no norte de Portugal por meio de corretoras institucionais."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Recovered client meetings",
+      "value": "60 unlogged client meetings recovered into CRM over 90 days",
+      "source": "Chronicle production sync, 2026 (F-234)"
+     },
+     {
+      "metric": "Commercial proposals tracked",
+      "value": "76 proposals indexed with source links",
+      "source": "Chronicle production pipeline, 2026 (F-234)"
+     },
+     {
+      "metric": "Image-only pricing extracted",
+      "value": "40 of 55 image-only PDF price sheets parsed into structured records",
+      "source": "Chronicle document vision pass, 2026 (F-234)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Reuniões recuperadas",
+      "value": "60 reuniões de clientes sem registro recuperadas no CRM em 90 dias",
+      "source": "Sincronização em produção do Chronicle, 2026 (F-234)"
+     },
+     {
+      "metric": "Propostas acompanhadas",
+      "value": "76 propostas comerciais indexadas com links de origem",
+      "source": "Pipeline em produção do Chronicle, 2026 (F-234)"
+     },
+     {
+      "metric": "Preços em imagem extraídos",
+      "value": "40 de 55 tabelas de preço em PDF só com imagem convertidas em registros estruturados",
+      "source": "Leitura visual do Chronicle, 2026 (F-234)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-234"
+   ]
+  },
+  {
+   "slug": "pulse",
+   "name": "Pulse",
+   "client": {
+    "en": "Fashion Retail",
+    "pt": "Varejo de Moda"
+   },
+   "what": {
+    "en": "Retail intelligence agent for a fashion retail chain",
+    "pt": "Agente de inteligência de varejo para uma rede de moda"
+   },
+   "about": {
+    "en": "Pulse reads the real numbers of every store in a retail chain, finds the shelf that is empty while the system says it is full, and puts the day's one move in front of each manager.",
+    "pt": "A Pulse lê os números reais de cada loja de uma rede de varejo, acha a prateleira vazia enquanto o sistema diz que está cheia, e coloca a decisão do dia na frente de cada gerente."
+   },
+   "outcome": {
+    "en": "The chain no longer finds its stockouts in Monday's report. Every store is read the way its best manager would read it, every day, and the empty shelf is caught while there is still a sale to save.",
+    "pt": "A rede não acha mais suas rupturas no relatório de segunda. Cada loja é lida do jeito que seu melhor gerente leria, todo dia, e a prateleira vazia é pega enquanto ainda dá para salvar a venda."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/pulse",
+    "pt": "https://www.homodeus.co/pt/pulse"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/pulse.md",
+    "pt": "https://www.homodeus.co/pt/pulse.md"
+   }
+  },
+  {
+   "slug": "cortex",
+   "name": "Cortex",
+   "client": {
+    "en": "AI Lab",
+    "pt": "Laboratório de IA"
+   },
+   "what": {
+    "en": "Company-wide knowledge platform for an AI lab",
+    "pt": "Plataforma de conhecimento de toda a empresa para um laboratório de IA"
+   },
+   "about": {
+    "en": "Cortex gives every agent in the company one brain: a single door onto all its mail, chat, calls, CRM, drive and code, so no agent ever works from a fraction of the picture.",
+    "pt": "A Cortex dá a cada agente da empresa um só cérebro: uma única porta para todo o e-mail, chat, calls, CRM, drive e código, para que nenhum agente trabalhe com só um pedaço do quadro."
+   },
+   "outcome": {
+    "en": "An afternoon to a sentence. Any question across 60,000 documents of company memory, with the source behind the answer. The knowledge that was trapped in twenty systems is one brain the whole company can ask. Every agent starts with the full picture, and the answer that took an afternoon of asking around arrives in a sentence, with the source behind it.",
+    "pt": "De uma tarde para uma frase. Qualquer pergunta em 60.000 documentos de memória da empresa, com a fonte por trás da resposta. O conhecimento que estava preso em vinte sistemas é um cérebro só que a empresa inteira pode perguntar. Todo agente começa com o quadro inteiro, e a resposta que levava uma tarde de perguntação chega numa frase, com a fonte atrás dela."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/cortex",
+    "pt": "https://www.homodeus.co/pt/cortex"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/cortex.md",
+    "pt": "https://www.homodeus.co/pt/cortex.md"
+   }
+  },
+  {
+   "slug": "vanguard",
+   "name": "Vanguard",
+   "client": {
+    "en": "AI-native GTM",
+    "pt": "GTM nativo de IA"
+   },
+   "what": {
+    "en": "Autonomous outbound engine for an AI lab",
+    "pt": "Motor de outbound autônomo para um laboratório de IA"
+   },
+   "about": {
+    "en": "Vanguard runs a company's whole outbound motion on agents: it finds the right people, writes in the founder's own voice, sends and follows up, and stops itself the moment a channel pushes back.",
+    "pt": "A Vanguard roda toda a operação de outbound de uma empresa com agentes: acha as pessoas certas, escreve na voz do próprio fundador, envia e faz follow-up, e se segura no instante em que um canal reage."
+   },
+   "outcome": {
+    "en": "The week that outbound used to eat is given back. Thousands of the right people reached in the founder's voice, every follow-up sent, and the channel protected because the engine knows exactly when to stop.",
+    "pt": "A semana que o outbound comia volta para você. Milhares de pessoas certas alcançadas na voz do fundador, todo follow-up enviado, e o canal protegido porque o motor sabe exatamente a hora de parar."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/vanguard",
+    "pt": "https://www.homodeus.co/pt/vanguard"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/vanguard.md",
+    "pt": "https://www.homodeus.co/pt/vanguard.md"
+   }
+  },
+  {
+   "slug": "tribune",
+   "name": "Tribune",
+   "client": {
+    "en": "A São Paulo Law Firm",
+    "pt": "Um escritório de advocacia de São Paulo"
+   },
+   "what": {
+    "en": "Legal drafting agent for a São Paulo law firm",
+    "pt": "Agente de redação jurídica para um escritório de advocacia de São Paulo"
+   },
+   "about": {
+    "en": "Tribune turns fifteen years of a law firm's own proposals and drafts into one live base any lawyer can query, so a client email comes back as a firm-formatted, precedent-cited proposal in minutes, behind the firm's walls.",
+    "pt": "A Tribune transforma quinze anos das próprias propostas e minutas de um escritório de advocacia em uma base viva que qualquer advogado pode consultar, então um e-mail de cliente volta como uma proposta no formato do escritório, com o precedente citado, em minutos, atrás das paredes do escritório."
+   },
+   "outcome": {
+    "en": "The hours a partner spent drafting from a blank page become minutes, and the standard of the best partner is there for everyone, every time. A seven-person core practice produces at the scale of a far larger firm, and the know-how that used to leave with each lawyer stays in the base.",
+    "pt": "As horas que um sócio passava redigindo de uma folha em branco viram minutos, e o padrão do melhor sócio fica ali para todo mundo, toda vez. Uma prática central de sete pessoas produz na escala de um escritório muito maior, e o conhecimento que ia embora com cada advogado fica na base."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/tribune",
+    "pt": "https://www.homodeus.co/pt/tribune"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/tribune.md",
+    "pt": "https://www.homodeus.co/pt/tribune.md"
+   }
+  },
+  {
+   "slug": "ledger",
+   "name": "Ledger",
+   "client": {
+    "en": "Grupo Raízes",
+    "pt": "Grupo Raízes"
+   },
+   "what": {
+    "en": "Contract-aware billing agent for Grupo Raízes",
+    "pt": "Agente de faturamento que entende contratos para o Grupo Raízes"
+   },
+   "about": {
+    "en": "Ledger reads every one of Grupo Raízes's custom client contracts, learns what each variable means, and computes the month's invoice against the operation's real numbers, so the billing team stops chasing branches.",
+    "pt": "A Ledger lê cada um dos contratos sob medida dos clientes do Grupo Raízes, aprende o que cada variável significa, e calcula a fatura do mês contra os números reais da operação, para o time de faturamento parar de correr atrás das filiais."
+   },
+   "outcome": {
+    "en": "Closing the month stops being a week of rebuilding spreadsheets and chasing branches. Every custom contract is read and understood, the invoice is built against the real numbers, and the team reviews instead of reconstructs.",
+    "pt": "Fechar o mês deixa de ser uma semana refazendo planilhas e correndo atrás de filiais. Todo contrato sob medida é lido e entendido, a fatura é montada contra os números reais, e o time revisa em vez de reconstruir."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/ledger",
+    "pt": "https://www.homodeus.co/pt/ledger"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/ledger.md",
+    "pt": "https://www.homodeus.co/pt/ledger.md"
+   },
+   "clientScale": {
+    "en": "Grupo Raízes (Cucinare) is a Brazilian corporate food service group operating 190 restaurants, expanded from 80, with a R$340 million public revenue milestone and R$410 million to R$500 million in CFO-stated annual revenue scale.",
+    "pt": "O Grupo Raízes (Cucinare) é um grupo brasileiro de alimentação corporativa com 190 restaurantes, expandido a partir de 80, com marco público de R$340 milhões e escala anual de R$410 milhões a R$500 milhões informada pelo CFO."
+   },
+   "verifiedMetrics": {
+    "en": [
+     {
+      "metric": "Operating scale",
+      "value": "190 restaurants billed on custom client contracts (up from 80)",
+      "source": "CFO statement, Jul 2026 (F-080, F-225)"
+     },
+     {
+      "metric": "Manual billing baseline",
+      "value": "4,680 hours per year across 190 custom contracts",
+      "source": "Grupo Raízes billing baseline (F-225)"
+     },
+     {
+      "metric": "Working capital impact",
+      "value": "R$157,000 per year freed per day faster billing at 14% CDI (up to R$575,000 on 3 days)",
+      "source": "Grupo Raízes finance model (F-225)"
+     }
+    ],
+    "pt": [
+     {
+      "metric": "Escala operacional",
+      "value": "190 restaurantes faturados por contratos customizados (antes 80)",
+      "source": "Declaração do CFO, jul 2026 (F-080, F-225)"
+     },
+     {
+      "metric": "Linha de base manual",
+      "value": "4.680 horas por ano em 190 contratos customizados",
+      "source": "Linha de base de faturamento Grupo Raízes (F-225)"
+     },
+     {
+      "metric": "Impacto em capital de giro",
+      "value": "R$157.000 por ano liberados por dia mais rápido no faturamento a 14% CDI (até R$575.000 em 3 dias)",
+      "source": "Modelo financeiro Grupo Raízes (F-225)"
+     }
+    ]
+   },
+   "factIds": [
+    "F-080",
+    "F-208",
+    "F-225"
+   ]
+  },
+  {
+   "slug": "sterling",
+   "name": "Sterling",
+   "client": {
+    "en": "A US Wealth Manager",
+    "pt": "Um wealth manager dos EUA"
+   },
+   "what": {
+    "en": "Wealth management AI for a US wealth manager",
+    "pt": "IA de gestão de patrimônio para um wealth manager dos EUA"
+   },
+   "about": {
+    "en": "Sterling is the AI inside a US wealth manager's own wealth management system. It reads each client's portfolio and risk profile, answers the advisor from approved sources and live calculations, and runs the firm's own research around the clock, so the firm owns the intelligence behind its portfolios instead of renting a black box.",
+    "pt": "A Sterling é a IA dentro do sistema de gestão de patrimônio de um wealth manager dos EUA. Ela lê a carteira e o perfil de risco de cada cliente, responde ao advisor a partir de fontes aprovadas e cálculos ao vivo, e roda a própria pesquisa da firma o tempo todo, para a firma ser dona da inteligência por trás das carteiras em vez de alugar uma caixa-preta."
+   },
+   "outcome": {
+    "en": "Every advisor works with an AI that knows the client's portfolio and the firm's own strategies. The research a team did by hand runs around the clock, and the intelligence behind the portfolios is the firm's own, tuned every night, in place of a number rented from a vendor.",
+    "pt": "Cada advisor trabalha com uma IA que conhece a carteira do cliente e as estratégias da firma. A pesquisa que um time fazia na mão roda o tempo todo, e a inteligência por trás das carteiras é da própria firma, ajustada toda noite, no lugar de um número alugado de um fornecedor."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/sterling",
+    "pt": "https://www.homodeus.co/pt/sterling"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/sterling.md",
+    "pt": "https://www.homodeus.co/pt/sterling.md"
+   }
+  },
+  {
+   "slug": "scribe",
+   "name": "Scribe",
+   "client": {
+    "en": "A US Brokerage",
+    "pt": "Uma corretora dos EUA"
+   },
+   "what": {
+    "en": "Onboarding and compliance agent for a US brokerage",
+    "pt": "Agente de onboarding e compliance para uma corretora dos EUA"
+   },
+   "about": {
+    "en": "Scribe turns a brokerage's client onboarding from a month of compliance paperwork into a packet built in minutes by a team of agents, with a compliance officer signing at the end.",
+    "pt": "A Scribe transforma o onboarding de clientes de uma corretora, de um mês de papelada de compliance em um pacote montado em minutos por um time de agentes, com um compliance officer assinando no fim."
+   },
+   "outcome": {
+    "en": "The packet builds and checks itself across every custodian, the compliance officer signs instead of assembles, and the advisor goes back to the client.",
+    "pt": "O pacote se monta e se confere sozinho em cada custodiante, o compliance officer assina em vez de montar, e o advisor volta para o cliente."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/scribe",
+    "pt": "https://www.homodeus.co/pt/scribe"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/scribe.md",
+    "pt": "https://www.homodeus.co/pt/scribe.md"
+   }
+  },
+  {
+   "slug": "tribe",
+   "name": "TRIBE",
+   "client": {
+    "en": "CNN Brasil, Serur, LACLAW and CNH Bank",
+    "pt": "CNN Brasil, Serur, LACLAW e Banco CNH"
+   },
+   "what": {
+    "en": "Operational intelligence platform",
+    "pt": "Plataforma de inteligência operacional"
+   },
+   "about": {
+    "en": "TRIBE captures how teams actually operate through voice interviews, recorded meetings and live screen observation, turning tacit work into editable BPMN 2.0 swimlanes, a company-wide process map, a cited team assistant and grounded automation. Live at CNN Brasil, Serur Advogados, LACLAW and CNH Bank.",
+    "pt": "O TRIBE captura como os times realmente operam por entrevistas de voz, reuniões gravadas e observação de tela, transformando trabalho tácito em raias BPMN 2.0 editáveis, um mapa da empresa inteira, um assistente com fontes e automação fundamentada. Em operação na CNN Brasil, Serur Advogados, LACLAW e Banco CNH."
+   },
+   "outcome": {
+    "en": "CNN Brasil, Serur Advogados, LACLAW and CNH Bank run TRIBE to capture real operations across voice, meetings and screens. What used to finish as a static deck becomes a live BPMN map, a cited operational assistant and a direct bridge to automation.",
+    "pt": "CNN Brasil, Serur Advogados, LACLAW e Banco CNH rodam o TRIBE para capturar a operação real por voz, reuniões e tela. O que antes acabava em um deck parado vira um mapa BPMN vivo, um assistente com fontes e um caminho direto para automação."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/tribe",
+    "pt": "https://www.homodeus.co/pt/tribe"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/tribe.md",
+    "pt": "https://www.homodeus.co/pt/tribe.md"
+   }
+  },
+  {
+   "slug": "gaia",
+   "name": "GAIA",
+   "client": {
+    "en": "AI-First Company",
+    "pt": "Empresa AI-First"
+   },
+   "what": {
+    "en": "AI-first company operating system",
+    "pt": "Sistema operacional de empresa AI-first"
+   },
+   "about": {
+    "en": "GAIA is HomoDeus's AI-first company system: a coordinated fleet of autonomous agents running go-to-market, client acquisition, follow-ups, executive slides, taxes, finance and operations optimization on one shared company truth, while continuously measuring and improving itself.",
+    "pt": "O GAIA é o sistema de empresa AI-first da HomoDeus: uma frota coordenada de agentes autônomos que toca go-to-market, aquisição de clientes, follow-ups, slides executivos, impostos, financeiro e otimização operacional sobre uma verdade única da empresa, medindo resultados e se aprimorando continuamente."
+   },
+   "outcome": {
+    "en": "GAIA replaces fragmented tools and manual coordination with one autonomous operating fleet built on shared company truth. Founders focus on product, clients and strategy while the company executes and sharpens itself behind them.",
+    "pt": "O GAIA substitui ferramentas fragmentadas e coordenação manual por uma frota autônoma construída sobre a verdade única da empresa. Os fundadores focam em produto, clientes e estratégia enquanto a empresa se executa e se aprimora por trás."
+   },
+   "url": {
+    "en": "https://www.homodeus.co/gaia",
+    "pt": "https://www.homodeus.co/pt/gaia"
+   },
+   "markdown": {
+    "en": "https://www.homodeus.co/gaia.md",
+    "pt": "https://www.homodeus.co/pt/gaia.md"
+   }
+  }
+ ]
+}
